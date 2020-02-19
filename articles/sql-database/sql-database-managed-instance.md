@@ -25,7 +25,7 @@ The following diagram outlines key features of managed instances:
 
 The managed instance deployment model is designed for customers looking to migrate a large number of apps from on-premises or IaaS, self-built, or ISV provided environment to fully managed PaaS cloud environment, with as low migration effort as possible. Using the fully automated [Data Migration Service (DMS)](../dms/tutorial-sql-server-to-managed-instance.md#create-an-azure-database-migration-service-instance) in Azure, customers can lift and shift their on-premises SQL Server to a managed instance that offers compatibility with SQL Server on-premises and complete isolation of customer instances with native VNet support.  With Software Assurance, you can exchange your existing licenses for discounted rates on a managed instance using the [Azure Hybrid Benefit for SQL Server](https://azure.microsoft.com/pricing/hybrid-benefit/).  A managed instance is the best migration destination in the cloud for SQL Server instances that require high security and a rich programmability surface.
 
-The managed instance deployment option aims delivers close to 100% surface area compatibility with the latest on-premises SQL Server version through a staged release plan.
+The managed instance deployment option aims to deliver close to 100% surface area compatibility with the latest on-premises SQL Server version through a staged release plan.
 
 To decide between the Azure SQL Database deployment options: single database, pooled database, and managed instance, and SQL Server hosted in virtual machine, see [how to choose the right version of SQL Server in Azure](sql-database-paas-vs-sql-server-iaas.md).
 
